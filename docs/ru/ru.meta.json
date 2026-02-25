@@ -8,14 +8,14 @@
       "iconMobile": "/ru/assets/start-icon-mobile.svg"
     },
     {
-      "partialPath": "/ru/intro/migration",
-      "icon": "/ru/assets/migration-icon.svg",
-      "iconMobile": "/ru/assets/migration-icon-mobile.svg"
-    },
-    {
       "partialPath": "/ru/intro/billing",
       "icon": "/ru/assets/billing-icon.svg",
       "iconMobile": "/ru/assets/billing-icon-mobile.svg"
+    },
+    {
+      "partialPath": "/ru/intro/migration",
+      "icon": "/ru/assets/migration-icon.svg",
+      "iconMobile": "/ru/assets/migration-icon-mobile.svg"
     },
     {
       "partialPath": "/ru/intro/it-security",
